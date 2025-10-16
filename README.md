@@ -29,6 +29,8 @@ This project uses **Hugging Face Transformers** for sentiment analysis and **Ope
 3. Enter your desired city when prompted.
 4. Click on the map to view coordinates.
 5. Input a place name & review — view sentiment on the map!
+⚠️ Note: For full interactivity (maps, plots, widgets), open in Colab using the badge above.
+
 
 ---
 
